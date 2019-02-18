@@ -1,0 +1,55 @@
+body {
+	padding-top: 15px;
+        background: whitesmoke;
+}
+
+h4 {
+    text-align: center;
+}
+
+.jumbotron {
+	border-top: solid whitesmoke 50px;
+	background-color: thistle;
+	font-size: 30px;
+}
+
+.container {
+	  color:#2c3e50;
+}
+
+.carousel-inner>.carousel-item>a>img, .carousel-inner>.carousel-item>img {
+    margin: 0 auto;
+
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-size: 100%, 100%;
+  border-radius: 50%;
+  border: 5px solid black;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: black;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: black;
+}
+
+.carousel-indicators li {
+  background-color: #999;
+  background-color: rgba(70,70,70,.25);
+}
+
+.carousel-indicators .active {
+  background-color: #3CB371;
+}
