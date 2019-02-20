@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+    <product ID='1'>
+        <name>Mountain 100 Silver 38</name>
+        <subcategoryID>1</subcategoryID>
+        <price>3349.99</price>
+        <colour>Silver</colour>
+    </product>
+    <product ID='2'>
+        <name>Mountain 100 Silver 42</name>
+        <subcategoryID>1</subcategoryID>
+        <price>3349.99</price>
+        <colour>Silver</colour>
+    </product>
+    <product ID='3'>
+        <name>Mountain 100 Black 38</name>
+        <subcategoryID>1</subcategoryID>
+        <price>3374.99</price>
+        <colour>Black</colour>
+    </product>
+        <product ID='4'>
+        <name>Mountain 100 Black 42</name>
+        <subcategoryID>1</subcategoryID>
+        <price>3374.99</price>
+        <colour>Black</colour>
+    </product>
+    <product ID='5'>
+        <name>Road 350 Yellow 42</name>
+        <subcategoryID>2</subcategoryID>
+        <price>1700.99</price>
+        <colour>Yellow</colour>
+    </product>
+        <product ID='5'>
+        <name>Road 350 Yellow 44</name>
+        <subcategoryID>2</subcategoryID>
+        <price>1700.99</price>
+        <colour>Yellow</colour>
+    </product>
+            <product ID='6'>
+        <name>Road 750 Black 58</name>
+        <subcategoryID>2</subcategoryID>
+        <price>539.99</price>
+        <colour>Black</colour>
+    </product>
+    <product ID='7'>
+        <name>Touring 3000 Blue 44</name>
+        <subcategoryID>3</subcategoryID>
+        <price>742.35</price>
+        <colour>Blue</colour>
+    </product>
+    <product ID='8'>
+        <name>Touring 3000 Yellow 54</name>
+        <subcategoryID>3</subcategoryID>
+        <price>742.35</price>
+        <colour>Yellow</colour>
+    </product>
+    <product ID='9'>
+        <name>LL Mountain Handlebars</name>
+        <subcategoryID>4</subcategoryID>
+        <price>44.64</price>
+        <colour></colour>
+    </product>
+        <product ID='10'>
+        <name>ML Mountain Handlebars</name>
+        <subcategoryID>4</subcategoryID>
+        <price>61.92</price>
+        <colour></colour>
+    </product>
+        <product ID='11'>
+        <name>LL Road Handlebars</name>
+        <subcategoryID>4</subcategoryID>
+        <price>44.64</price>
+        <colour></colour>
+    </product>
+            <product ID='12'>
+        <name>LL Mountain Pedal</name>
+        <subcategoryID>5</subcategoryID>
+        <price>40.49</price>
+        <colour>Silver/Black</colour>
+    </product>
+    <product ID='13'>
+        <name>ML Mountain Pedal</name>
+        <subcategoryID>5</subcategoryID>
+        <price>62.09</price>
+        <colour>Silver/Black</colour>
+    </product>
+        <product ID='14'>
+        <name>Touring Pedal</name>
+        <subcategoryID>5</subcategoryID>
+        <price>80.99</price>
+        <colour>Silver/Black</colour>
+    </product>
+            <product ID='15'>
+        <name>Sky Logo Cap</name>
+        <subcategoryID>6</subcategoryID>
+        <price>8.99</price>
+        <colour>Multi</colour>
+    </product>
+                <product ID='16'>
+        <name>Half Finger Gloves</name>
+        <subcategoryID>7</subcategoryID>
+        <price>22.50</price>
+        <colour>Black</colour>
+    </product>
+                    <product ID='17'>
+        <name>Full Finger Gloves</name>
+        <subcategoryID>7</subcategoryID>
+        <price>29.99</price>
+        <colour>Black</colour>
+    </product>
+    <product ID='18'>
+        <name>Short Sleeve Classic Jersey</name>
+        <subcategoryID>8</subcategoryID>
+        <price>49.99</price>
+        <colour>Red</colour>
+    </product>
+        <product ID='19'>
+        <name>Short Sleeve Classic Jersey</name>
+        <subcategoryID>8</subcategoryID>
+        <price>49.99</price>
+        <colour>Blue</colour>
+    </product>
+            <product ID='20'>
+        <name>Long Sleeve Classic Jersey</name>
+        <subcategoryID>8</subcategoryID>
+        <price>53.99</price>
+        <colour>Red</colour>
+    </product>
+</Products>

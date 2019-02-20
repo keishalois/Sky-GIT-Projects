@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+<category CategoryID='1'>
+    <name>Bikes</name>
+</category>
+<category CategoryID='2'>
+    <name>Components</name>
+</category>
+<category CategoryID='3'>
+    <name>Clothing</name>
+</category>
+</categories>

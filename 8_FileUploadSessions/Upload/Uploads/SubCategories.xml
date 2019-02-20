@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subCategories>
+<subcategory SubCategoryID='1'>
+    <name>Mountain Bikes</name>
+    <categoryID>1</categoryID>
+</subcategory>
+<subcategory SubCategoryID='2'>
+    <name>Road Bikes</name>
+    <categoryID>1</categoryID>
+</subcategory>
+<subcategory SubCategoryID='3'>
+    <name>Touring Bikes</name>
+    <categoryID>1</categoryID>
+</subcategory>
+<subcategory SubCategoryID='4'>
+    <name>Handlebars</name>
+    <categoryID>2</categoryID>
+</subcategory>
+<subcategory SubCategoryID='5'>
+    <name>Pedals</name>
+    <categoryID>2</categoryID>
+</subcategory>
+<subcategory SubCategoryID='6'>
+    <name>Caps</name>
+    <categoryID>3</categoryID>
+</subcategory>
+<subcategory SubCategoryID='7'>
+    <name>Gloves</name>
+    <categoryID>3</categoryID>
+</subcategory>
+<subcategory SubCategoryID='8'>
+    <name>Jerseys</name>
+    <categoryID>3</categoryID>
+</subcategory>
+</subCategories>
